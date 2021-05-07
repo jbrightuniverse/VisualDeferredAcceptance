@@ -1,0 +1,4 @@
+name,address,capacity,older_students,guidelines
+Program 1,catchment 1,2,"Student 7,Student 9","Sibling,Catchment"
+Program 2,catchment 2,1,"Student 8,Student 10","Sibling,Catchment"
+Program 3,catchment 1,1,"","Sibling,Catchment"
